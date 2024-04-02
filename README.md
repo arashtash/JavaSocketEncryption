@@ -76,3 +76,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+# Acknowledgement
+This program was an assignment for CSCI3171 Network Computing at Dalhousie University. While I have done all the work for the assignment, the idea and instructions for the assignment were given to us by the instructor, Dr. Srini Sampalli.
