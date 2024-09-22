@@ -55,6 +55,9 @@ In the Vigenere cipher, the secret key consists of a sequence of letters rather 
 # Author
 Arash Tashakori
 
+
+[Website and Contact information](https://arashtash.github.io/)
+
 # MIT License
 
 Copyright (c) 2024 Arash Tashakori
